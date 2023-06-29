@@ -1,6 +1,6 @@
 # Anime API
 
-This is a RESTful API built using Node.js, Express, and PostgreSQL. It provides endpoints to manage anime data.
+This is a RESTful API built using Node.js, Express, and PostgreSQL. It provides endpoints to manage anime data.(code is used in aws  ec2 instance)
 
 ## Requirements
 
